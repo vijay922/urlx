@@ -62,7 +62,7 @@ sudo mv urlx /usr/local/bin/
 
 ### Quick Install
 
-```bash
+
 go install github.com/vijay922/urlx@latest
 ```
 
