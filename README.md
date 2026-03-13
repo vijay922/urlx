@@ -47,11 +47,11 @@
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/urlx.git
+git clone https://github.com/vijay922/urlx.git
 cd urlx
 
 # Initialize and build
-go mod init github.com/yourusername/urlx
+go mod init github.com/vijay922/urlx
 go get github.com/Cgboal/DomainParser
 go mod tidy
 go build -o urlx .
@@ -63,7 +63,7 @@ sudo mv urlx /usr/local/bin/
 ### Quick Install
 
 ```bash
-go install github.com/yourusername/urlx@latest
+go install github.com/vijay922/urlx@latest
 ```
 
 ### Verify Installation
