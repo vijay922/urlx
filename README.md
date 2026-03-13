@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">
   urlx
 </h1>
@@ -59,7 +58,7 @@ go build -o urlx .
 
 # Install to PATH
 sudo mv urlx /usr/local/bin/
-```
+
 
 ### Quick Install
 
