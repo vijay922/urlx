@@ -521,7 +521,7 @@ urlx/
 ### Module not found
 
 ```bash
-go mod init github.com/yourusername/urlx
+go mod init github.com/vijay922/urlx
 go get github.com/Cgboal/DomainParser
 go mod tidy
 ```
@@ -590,7 +590,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 </p>
 
 <p align="center">
-  <a href="https://github.com/yourusername/urlx/stargazers">⭐ Star this repo</a> if you find it useful!
+  <a href="https://github.com/vijay922/urlx/stargazers">⭐ Star this repo</a> if you find it useful!
 </p>
 ```
 
